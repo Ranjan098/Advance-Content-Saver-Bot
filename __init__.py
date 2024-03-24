@@ -18,7 +18,7 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 API_ID = "12606917" #config("API_ID", default=None, cast=int)
 API_HASH = "f25113b8c17dca6fa7abda53a86bd4f7" #config("API_HASH", default=None)
 BOT_TOKEN = "6553567194:AAHFoJ7y9fT-z12_-S_6HVDz9Bqz5vdIta8" #config("BOT_TOKEN", default=None)
-SESSION = "BQFo4R8Ai3huYL3o2bOp3NkVMAdPbLWU7XQ4mngcdjzsiE8l5BPDVb-8u9YTrDfmh3mkiGrmKBKKNNiSulAmSQy4BYHM8OpnAA_tcmFRvPhOnQ3agTaj3bZqmk_d40OnrCbMC8csk4XSOs2ErueVW7d_0CMTj9WbIL1_VW4tl1piPmMRxonjYupG7Ec8GHdYQis7YWVEV0GXOa178Dq546p5q_sS1P22Mop_2ekC7VP2er2rWHhOBb7MvyA8_yksM9hRWlcaLKC1oiVQUw23FTwkrluw_gjJKgPqIjycQKNQJ60vpyHUHXGR-vgkUZhUZNlxZS3s2b6hUOyUXTCz0Dj4nM3JbgAAAAGa07aZAA"  #config("SESSION", default=None)
+SESSION = "AQDAXcUAMQ_OTXH9wWjOrGR8KTNb0G8q95M5_DWvAuKFh8GFlHBpDlQZkN7OlG5RZ7NRN171f0WNB5TCXJ3aO5jMWdUBLsDrt3gcZ8hjCvR1IUUF_GXFShdVwUdDeqe0ZzQSqzzNwrdGTN16gcV5x5pnRDMM94x-ziJ8UN-Gf8knOTHXMSB-kbKbGp890fiV31A_s8iBR3_e_OeUxDLvxc4Rz6DvukeTwch3VQnc6dnVqze8jj_5K8ydRyb1ccoDWiSIY5sqkdmS_msTkyjnBULDfvEG97NREdGvLtEyspLync4fIVSRc5_YZ4iTDl-0x7GYCRjDCxjI0UKnWLdsZWosK5jPbwAAAAE8_fPSAA"  #config("SESSION", default=None)
 FORCESUB = "backup98jdj" #config("FORCESUB", default=None)
 AUTH = "5318243282" #config("AUTH", default=None)
 SUDO_USERS = []
